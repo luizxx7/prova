@@ -1,31 +1,48 @@
-# prova<html lang="pt-BR">
+# prova
+<!DOCTYPE html>
+
+<html lang="pt-BR">
 
 <head>
 
 <meta charset="UTF-8">
 
-<title>Academia</title>
+<title>Restaurante Sabor Bom</title>
 
 </head>
 
 <body>
 
-<h1>Academia Fitness</h1>
+<h1>Restaurante Sabor Bom</h1>
 
-<p>Transforme sua rotina através do exercicio.</p>
+<p>Comida caseira com muito sabor!</p>
 
-<h2>Modalidades</h2>
+<h2>Cardápio</h2>
+
+<h3>Pratos principais</h3>
 
 <ul>
 
-<li>Musculação</li>
+<li>Arroz, feijão e carne R$ 20,00</li>
 
-<li>Crossfit</li>
+<li>Frango grelhado R$ 18,00</li>
 
-<li>Spinning</li>
+<li>Macarronada R$ 22,00</li>
 
-</ul >
+</ul>
 
-<h2>Horarios</h2>
+<h3>Bebidas</h3>
 
-<p>Segunda a sexta: 06:00 ás 22:00</p>
+<ul>
+
+<li>Refrigerante. R$ 5,00</li>
+
+<li>Suco R$ 6,00</li>
+
+<li>Água R$ 3,00</li>
+
+</ul>
+
+</body>
+
+</html>
