@@ -1,18 +1,35 @@
-# prova
-<b>Missão do aluno:</b>
+#Depois diga aos alunos:
 
-"Você recebeu esse site de um cliente. O cliente pediu algumas alterações."
+<b>"O cliente entrou em contato novamente e solicitou várias mudanças. Faça as alterações sem apagar o que já funciona."</b>
 
-<b>Alteração 1:</b><br>Trocar o titulo <b>"Meu Site"</b> pelo nome do aluno.
+<b>Novos requisitos</b>
 
-<b>Alteração 2:</b><br>Adicionar uma imagem.
+Alterar o nome da academia.
 
-<b>Alteração 3:</b><br>Adicionar uma lista com 5 interesses.
+Alterar o slogan.
 
-<b>Alteração 4:</b><br>Adicionar um link para um site favorito.
+Adicionar <b>3 novas modalidades</b>.
 
-<b>Alteração 5:</b><br>Criar uma seção chamada <b>"Projetos"</b>.
+Criar uma seção <b>"Planos"</b>.
 
-<b>Alteração 6:</b><br>Adicionar 3 projetos fictícios.
+- Criar 3 planos:
 
-<b>Alteração 7- Desafio:</b><br>Criar uma seção <b>"Entre em contato"</b> contendo nome, e-mail e telefone.
+- Básico
+
+- Premium
+
+- VIP
+
+- Informar o preço de cada plano.
+
+- Criar uma seção <b>"Beneficios"</b>.
+
+Adicionar pelo menos 5 beneficios.
+
+Criar uma seção <b>"Contato"</b>.
+
+- Adicionar telefone e e-mail.
+
+- Adicionar um link para uma rede social.
+
+<b> Desafio extra</b>
