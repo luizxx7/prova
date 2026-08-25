@@ -1,5 +1,5 @@
 # prova
-<!DOCTYPE html>
+!DOCTYPE html>
 
 <html lang="pt-BR">
 
@@ -7,42 +7,22 @@
 
 <meta charset="UTF-8">
 
-<title>Restaurante Sabor Bom</title>
+<title>Meu Site</title>
 
 </head>
 
 <body>
 
-<h1>Restaurante Sabor Bom</h1>
+<h1>Meu Site</hi>
 
-<p>Comida caseira com muito sabor!</p>
+<p>Este é meu primeiro site.</p>
 
-<h2>Cardápio</h2>
+<h2>Sobre mim</h2>
 
-<h3>Pratos principais</h3>
-
-<ul>
-
-<li>Arroz, feijão e carne R$ 20,00</li>
-
-<li>Frango grelhado R$ 18,00</li>
-
-<li>Macarronada R$ 22,00</li>
-
-</ul>
-
-<h3>Bebidas</h3>
-
-<ul>
-
-<li>Refrigerante. R$ 5,00</li>
-
-<li>Suco R$ 6,00</li>
-
-<li>Água R$ 3,00</li>
-
-</ul>
+<p>Estou aprendendo HTML.</p>
 
 </body>
 
 </html>
+
+<b>Missão do aluno:</b>
